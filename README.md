@@ -13,3 +13,4 @@ Steps:
 5. Uncover insights about our data that might be very difficult to retrieve in other forms of dbs.
 6. Choosing a project theme.
 
+https://www.kaggle.com/datasets/weissmedia/twitter-graph-example-v2-43
